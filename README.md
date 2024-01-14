@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Projects:</h2>
 
-- [Machine Write-ups](https://app.gitbook.com/o/K4SSbo93h0dGMuQKSvVh/c/npWBQ500lEkGPmIftL70)
-- [Penetration Testing Reports](https://github.com/philn19872/repourl)
+- [Machine Write-ups](https://philn1987.gitbook.io/write-ups/)
+- [Penetration Testing Reports](https://github.com/philn19872/Penetration-Testing-Reports)
 - [Active Directory Home Lab](https://github.com/philn19872/repourl) (In Progress)
 
 <h2>📺 Popular YouTube Videos (Planned in the Near Future!)</h2>
@@ -22,7 +22,7 @@
 [linkedin]: https://www.linkedin.com/in/phillip-newlove-cyber-security/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**philn19872/philn19872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
