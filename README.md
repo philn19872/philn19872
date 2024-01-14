@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/philn19872/repourl)
-- [Machine Write-ups](https://github.com/philn19872/write-ups)
+- [Machine Write-ups](https://gitbookurl)
 
 <h2>📺 Popular YouTube Videos</h2>
 
