@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phil!</h1>
+<h1>Hi, I'm Phil! Royal Navy Clearance Diver by Day, Cyber Security Enthusiast by Night.</h1>
 
 <h2>👨‍💻 Cyber Projects:</h2>
 
