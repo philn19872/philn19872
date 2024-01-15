@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Projects:</h2>
 
-- [Machine Write-ups](https://philn1987.gitbook.io/write-ups/)
+- [Machine Write-ups](https://philn1987.gitbook.io/philn1987/)
 - [Penetration Testing Reports](https://github.com/philn19872/Penetration-Testing-Reports)
 - [Active Directory Home Lab](https://github.com/philn19872/repourl) (In Progress)
 
