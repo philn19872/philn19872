@@ -14,6 +14,7 @@
 
 - [eJPT](https://certs.ine.com/d5f51cdf-29ac-4991-810b-4373f88cf098)
 - [INE Certified Cloud Associate](https://certs.ine.com/7e188c65-12c3-43d6-b88c-d8052381574a)
+- [Google Cyber Security Professional](https://www.credly.com/badges/bc7c0099-0c3d-4c26-ade7-a8ab6c9d0071/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
